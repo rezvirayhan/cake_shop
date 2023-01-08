@@ -1,0 +1,9 @@
+.services_img {
+  width: 100%;
+  height: auto;
+}
+.serivce {
+  border: 1px solid lightblue;
+  padding-bottom: 10px;
+  text-align: center;
+}
